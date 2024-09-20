@@ -16,7 +16,7 @@ Algorithm Study
 
 ## Categories
 
-### 1. Input/Output
+### 1. Input/Output < Progress
 ### 2. Stack, Queue, Deque
 ### 3. Sorting
 ### 4. Binary Search/Ternary Search
