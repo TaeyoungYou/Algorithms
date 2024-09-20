@@ -1,59 +1,33 @@
 # Project Title
 
-A short description about the project and/or client.
+Algorithm Study
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Preconditions
 
-### Prerequisites
+* Prepare any programming language that I used to - Python
+* Data Structure
+* Basic Algorithm Knowledge
 
-The things you need before installing the software.
+### Environment
 
-* You need this
-* And you need this
-* Oh, and don't forget this
+* VSCode
 
-### Installation
+## Categories
 
-A step by step guide that will tell you how to get the development environment up and running.
+### 1. Input/Output
+### 2. Stack, Queue, Deque
+### 3. Sorting
+### 4. Binary Search/Ternary Search
+### 5. Basic Mathematics
+### 6. String Processing
+### 7. Greedy Algorithms
+### 8. Brute Force
+### 9. Divide and Conquer
+### 10. Dynamic Programming (DP)
+### 11. Graphs
+### 12. Other Data Structures / Algorithms
 
-```
-$ First step
-$ Another step
-$ Final step
-```
-
-## Usage
-
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
+## References
+https://steady-coding.tistory.com/260
