@@ -17,7 +17,7 @@ Algorithm Study
 ## Categories
 
 ### 1. Input/Output 
-### 2. Stack, Queue, Deque < Progress
+### 2. Stack, Queue, Deque
 ### 3. Sorting
 ### 4. Binary Search/Ternary Search
 ### 5. Basic Mathematics
@@ -31,3 +31,7 @@ Algorithm Study
 
 ## References
 https://steady-coding.tistory.com/260
+## BaekJoon Profile
+https://solved.ac/profile/taeyoung_you00
+## LeetCode Profile
+https://leetcode.com/u/TaeyoungU/
