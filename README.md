@@ -14,6 +14,10 @@ Algorithm Study
 
 * VSCode
 
+### Study Group
+* 2024-11-11 ~
+* Study Group Progress: https://velog.io/@taeyoung4778/PS-Study-Project
+
 ## Categories
 
 ### 1. Input/Output 
