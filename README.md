@@ -6,13 +6,14 @@ Algorithm Study
 
 ### Preconditions
 
-* Prepare any programming language that I used to - Python
+* Prepare any programming language that I used to - Python -> C++
 * Data Structure
 * Basic Algorithm Knowledge
 
 ### Environment
 
 * VSCode
+* CLion
 
 ### Study Group
 * 2024-11-11 ~
