@@ -21,6 +21,17 @@ Algorithm Study
 
 ## Categories
 
+### Data Structure
+#### * [Dynamic Array](https://velog.io/@taeyoung4778/Dynamic-Array)
+#### * [Singly Linked List](https://velog.io/@taeyoung4778/Singly-Linked-List)
+#### * [Doubly Linked List](https://velog.io/@taeyoung4778/Doubly-Linked-List)
+#### * [Stack](https://velog.io/@taeyoung4778/Stack)
+#### * [Queue](https://velog.io/@taeyoung4778/Queue)
+#### * [Deque](https://velog.io/@taeyoung4778/Deque)
+#### * [Tree](https://velog.io/@taeyoung4778/Tree)
+#### * [Binary Search Tree](https://velog.io/@taeyoung4778/Binary-Search-Tree)
+#### * [AVL Tree](https://velog.io/@taeyoung4778/AVL-Tree)
+
 ### 1. Input/Output 
 ### 2. Stack, Queue, Deque
 ### 3. Sorting
